@@ -1,0 +1,421 @@
+﻿id_menage,region,province,groupe,sexe_cdm,age_cdm,situation_matrimoniale,niveau_instruction_cdm,taille_menage,quintile_richesse,possession_terre_ha,acces_credit,distance_marche_km,acces_eau_potable,distance_eau_min,nombre_techniques_agroecologiques,compost_utilise,agroforesterie_pratiquee,superficie_amenagee_ha,score_SCA,rendement_cereales_kg_ha,revenu_agricole_fcfa,nombre_mois_couverture_alim,insecurite_alimentaire_severe
+1,Est,Gnagna,Bénéficiaire,Femme,62,Marié(e) monogame,Aucun,4,2,0.48,Non,4.2,Oui,35.1,6,Oui,Non,0.87,49.3,1010.0,179500.0,7.6,0
+2,Est,Komondjari,Témoin,Homme,24,Marié(e) monogame,Secondaire,8,3,1.03,Oui,13.3,Non,23.9,1,Non,Oui,0.27,36.3,741.0,89400.0,8.0,0
+3,Nord,Passoré,Témoin,Homme,41,Veuf/Veuve,Aucun,5,3,2.48,Oui,14.2,Oui,19.1,0,Oui,Non,0.03,49.7,817.0,123500.0,4.9,0
+4,Est,Komondjari,Bénéficiaire,Homme,42,Marié(e) monogame,Aucun,8,3,3.92,Non,7.3,Oui,26.0,4,Oui,Oui,1.78,53.8,1193.0,152800.0,7.9,0
+5,Est,Komondjari,Bénéficiaire,Homme,37,Marié(e) monogame,Primaire,4,2,3.13,Non,4.4,Non,3.7,4,Oui,Oui,0.63,49.3,1241.0,84100.0,5.9,1
+6,Nord,Yatenga,Bénéficiaire,Homme,45,Marié(e) polygame,Aucun,7,4,2.1,Oui,5.9,Non,18.8,5,Non,Oui,2.01,54.6,1250.0,192100.0,9.9,0
+7,Est,Gourma,Témoin,Femme,30,Marié(e) monogame,Secondaire,5,5,1.85,Non,0.5,Non,2.2,1,Non,Non,0.17,51.7,642.0,93800.0,7.4,0
+8,Nord,Passoré,Bénéficiaire,Homme,53,Marié(e) polygame,Secondaire,12,5,2.65,Non,,Non,32.1,5,Oui,Oui,1.87,61.7,1040.0,168200.0,5.7,1
+9,Nord,Yatenga,Bénéficiaire,Homme,50,Veuf/Veuve,Aucun,6,4,0.62,Non,11.1,Non,32.9,2,Oui,Oui,2.0,62.1,924.0,145500.0,10.2,0
+10,Nord,Passoré,Bénéficiaire,Homme,26,Marié(e) monogame,Aucun,3,1,0.73,Non,1.5,Non,5.6,4,Oui,Oui,2.82,58.0,728.0,26100.0,9.9,0
+11,Nord,Passoré,Bénéficiaire,Homme,45,Marié(e) polygame,Secondaire,10,1,4.18,Non,7.5,Non,12.8,4,Oui,Oui,1.46,51.9,1087.0,176300.0,9.8,0
+12,Nord,Yatenga,Bénéficiaire,Femme,52,Célibataire,Aucun,7,2,2.11,Non,12.3,Non,28.8,4,Oui,Oui,3.1,50.8,913.0,104000.0,6.4,0
+13,Nord,Yatenga,Témoin,Homme,50,Veuf/Veuve,Secondaire,8,4,4.9,Oui,5.7,Oui,19.5,0,Non,Non,0.39,34.0,563.0,155500.0,6.2,0
+14,Est,Gourma,Bénéficiaire,Homme,45,Marié(e) monogame,Aucun,7,1,0.82,Non,10.7,Non,4.5,3,Non,Oui,1.03,40.4,879.0,64700.0,8.2,0
+15,Est,Komondjari,Bénéficiaire,Homme,55,Marié(e) monogame,Aucun,6,3,2.54,Oui,2.2,Non,9.6,2,Oui,Oui,1.96,40.0,1178.0,147900.0,8.8,0
+16,Est,Gourma,Témoin,Homme,52,Marié(e) polygame,Secondaire,6,3,2.23,Non,5.6,Oui,24.6,0,Non,Non,0.33,43.0,489.0,163100.0,6.8,0
+17,Est,Komondjari,Bénéficiaire,Homme,48,Marié(e) monogame,Aucun,4,5,3.38,Oui,7.4,Non,20.9,4,Non,Oui,3.92,56.8,1222.0,164100.0,10.1,0
+18,Est,Komondjari,Bénéficiaire,Femme,32,Célibataire,Secondaire,6,1,3.88,Non,6.0,Oui,35.9,1,Oui,Oui,1.44,43.5,1034.0,188300.0,10.5,0
+19,Nord,Passoré,Bénéficiaire,Homme,26,Marié(e) monogame,Aucun,8,4,2.09,Non,1.4,Oui,5.2,2,Oui,Oui,0.33,60.5,903.0,94500.0,11.3,0
+20,Nord,Yatenga,Bénéficiaire,Homme,37,Marié(e) monogame,Primaire,9,4,1.24,Non,2.6,Oui,6.0,3,Non,Non,1.77,57.9,1083.0,206300.0,9.3,0
+21,Nord,Passoré,Témoin,Homme,37,Marié(e) polygame,Primaire,9,4,1.13,Oui,4.4,Oui,17.7,1,Non,Non,0.45,58.4,536.0,181300.0,4.9,0
+22,Nord,Passoré,Témoin,Homme,51,Marié(e) monogame,Aucun,10,3,0.76,Non,3.8,Non,13.3,1,Oui,Non,1.65,40.3,697.0,122900.0,5.7,0
+23,Est,Gnagna,Témoin,Femme,40,Marié(e) polygame,Primaire,3,4,0.25,Non,7.3,Non,7.9,0,Non,Non,0.07,43.8,363.0,111200.0,5.4,0
+24,Nord,Zondoma,Témoin,Homme,39,Marié(e) monogame,Aucun,6,3,3.79,Non,0.9,Non,9.9,0,Non,Non,0.1,47.0,741.0,124900.0,4.8,0
+25,Est,Gourma,Témoin,Femme,47,Marié(e) polygame,Aucun,5,1,2.83,Non,7.4,Non,21.2,0,Non,Non,0.13,21.8,586.0,93400.0,4.6,1
+26,Est,Gnagna,Bénéficiaire,Homme,41,Marié(e) monogame,Secondaire,8,4,1.02,Non,3.9,Oui,9.8,1,Oui,Non,4.38,62.1,684.0,169100.0,7.4,0
+27,Nord,Zondoma,Témoin,Homme,50,Marié(e) polygame,Primaire,7,1,11.29,Non,7.7,Oui,1.0,2,Non,Non,0.08,40.9,1030.0,101900.0,6.3,0
+28,Est,Gnagna,Témoin,Homme,32,Marié(e) monogame,Aucun,6,5,0.71,Non,4.0,Oui,1.0,0,Non,Non,0.15,49.3,798.0,104500.0,8.7,0
+29,Nord,Yatenga,Témoin,Homme,40,Marié(e) monogame,Secondaire,13,2,5.19,Oui,7.7,Oui,16.9,2,Non,Non,0.03,43.3,631.0,120200.0,5.5,0
+30,Nord,Passoré,Témoin,Femme,26,Divorcé(e),Aucun,7,1,5.99,Oui,3.5,Oui,1.0,1,Non,Non,0.19,24.2,1042.0,105200.0,4.0,0
+31,Nord,Passoré,Bénéficiaire,Femme,29,Marié(e) polygame,Primaire,5,2,0.38,Oui,3.5,Oui,11.4,2,Oui,Oui,1.23,52.2,915.0,215500.0,6.8,0
+32,Est,Gourma,Témoin,Femme,50,Célibataire,Secondaire,7,3,0.76,Oui,3.4,Non,3.8,0,Non,Non,0.14,34.6,500.0,75900.0,7.3,1
+33,Est,Gnagna,Bénéficiaire,Femme,30,Marié(e) polygame,Secondaire,9,3,2.66,Non,3.7,Non,25.3,3,Oui,Oui,1.01,54.1,832.0,147600.0,12.0,0
+34,Nord,Passoré,Bénéficiaire,Homme,47,Veuf/Veuve,Primaire,8,3,1.23,Oui,10.9,Oui,3.3,3,Oui,Oui,0.3,64.1,1067.0,175700.0,7.9,0
+35,Nord,Yatenga,Bénéficiaire,Homme,63,Marié(e) monogame,Primaire,4,3,3.2,Non,4.3,Non,8.6,2,Oui,Oui,1.75,59.3,1056.0,188700.0,7.4,0
+36,Est,Gourma,Bénéficiaire,Homme,57,Marié(e) monogame,Primaire,3,3,3.06,Non,4.7,Oui,2.8,0,Oui,Non,2.35,66.9,655.0,186000.0,8.7,0
+37,Nord,Yatenga,Bénéficiaire,Homme,57,Marié(e) monogame,Aucun,7,5,0.47,Oui,14.7,Non,19.2,5,Oui,Oui,0.89,48.6,1007.0,150400.0,12.0,0
+38,Nord,Yatenga,Bénéficiaire,Homme,44,Marié(e) monogame,Aucun,9,3,3.37,Oui,9.0,Non,38.0,4,Non,Oui,0.99,51.0,1143.0,187600.0,9.3,0
+39,Nord,Zondoma,Bénéficiaire,Homme,39,Marié(e) monogame,Aucun,16,3,3.73,Non,8.9,Non,6.0,1,Oui,Oui,0.7,42.7,971.0,167900.0,10.0,0
+40,Nord,Passoré,Témoin,Homme,28,Marié(e) polygame,Aucun,8,2,3.72,Non,3.5,Non,5.1,0,Oui,Non,0.01,42.8,663.0,104700.0,6.4,1
+41,Est,Komondjari,Témoin,Femme,24,Marié(e) monogame,Secondaire,10,2,1.16,Oui,6.0,Non,4.8,0,Non,Non,0.04,29.7,543.0,30500.0,2.8,1
+42,Nord,Passoré,Témoin,Homme,56,Marié(e) monogame,Aucun,11,1,5.01,Oui,9.5,Oui,4.3,1,Non,Non,0.08,37.0,868.0,166600.0,5.6,0
+43,Est,Gourma,Témoin,Homme,34,Célibataire,Aucun,7,2,1.26,Non,2.8,Oui,28.3,0,Non,Non,0.16,44.6,455.0,119300.0,4.5,0
+44,Nord,Passoré,Témoin,Homme,24,Marié(e) monogame,Primaire,6,2,2.0,Non,6.9,Oui,14.2,1,Non,Non,0.05,39.8,663.0,72000.0,3.6,0
+45,Est,Komondjari,Bénéficiaire,Femme,46,Marié(e) polygame,Primaire,7,5,2.46,Non,9.0,Oui,2.9,3,Non,Oui,2.32,60.3,1050.0,120100.0,11.1,0
+46,Est,Komondjari,Témoin,Homme,54,Marié(e) polygame,Aucun,12,1,2.57,Oui,2.5,Non,7.8,0,Non,Non,0.06,31.8,893.0,51400.0,3.4,0
+47,Nord,Yatenga,Bénéficiaire,Femme,38,Marié(e) monogame,Aucun,6,2,1.99,Non,13.5,Oui,57.1,5,Oui,Non,0.3,53.7,1185.0,171100.0,9.2,0
+48,Est,Gourma,Bénéficiaire,Homme,36,Marié(e) monogame,Aucun,6,2,1.69,Non,7.3,Oui,1.0,3,Oui,Non,0.37,61.2,996.0,200000.0,6.6,0
+49,Est,Gnagna,Bénéficiaire,Homme,37,Marié(e) monogame,Aucun,8,5,2.61,Non,8.8,Oui,20.8,4,Oui,Oui,1.48,52.6,1092.0,162900.0,8.3,0
+50,Est,Gnagna,Témoin,Femme,53,Marié(e) monogame,Primaire,8,2,1.69,Non,0.9,Non,42.9,1,Non,Non,0.11,31.8,574.0,47100.0,5.2,1
+51,Nord,Yatenga,Témoin,Femme,42,Marié(e) monogame,Primaire,9,4,0.64,Non,6.7,Oui,16.5,0,Non,Non,0.1,43.6,424.0,159100.0,6.6,0
+52,Nord,Passoré,Témoin,Homme,25,Divorcé(e),Primaire,10,4,2.61,Non,8.1,Oui,11.1,0,Non,Non,0.07,37.9,699.0,59300.0,7.7,1
+53,Nord,Zondoma,Bénéficiaire,Homme,43,Veuf/Veuve,Primaire,6,1,0.77,Non,3.8,Oui,10.4,3,Oui,Non,1.82,44.2,994.0,175200.0,7.0,0
+54,Nord,Zondoma,Bénéficiaire,Femme,52,Marié(e) monogame,Aucun,5,2,3.47,Non,5.0,Non,1.0,4,Non,Non,1.27,65.3,1193.0,155400.0,8.1,0
+55,Nord,Passoré,Bénéficiaire,Homme,21,Marié(e) monogame,Supérieur,11,1,4.36,Non,,Non,17.2,6,Oui,Non,1.25,24.6,1139.0,108900.0,10.0,0
+56,Est,Komondjari,Bénéficiaire,Homme,53,Marié(e) monogame,Primaire,12,1,2.09,Non,8.7,Non,13.0,5,Oui,Oui,0.37,59.5,1113.0,161700.0,7.1,0
+57,Est,Gourma,Témoin,Homme,39,Marié(e) monogame,Aucun,7,1,3.98,Oui,11.8,Non,20.8,1,Non,Non,0.02,29.5,1066.0,38300.0,5.1,1
+58,Est,Gourma,Bénéficiaire,Femme,63,Célibataire,Secondaire,7,3,0.47,Oui,9.6,Oui,10.2,2,Oui,Oui,1.48,69.1,829.0,202900.0,5.8,0
+59,Nord,Passoré,Bénéficiaire,Homme,20,Marié(e) polygame,Primaire,8,3,0.81,Non,,Oui,16.8,2,Non,Non,0.21,49.0,803.0,151900.0,7.8,0
+60,Nord,Zondoma,Bénéficiaire,Homme,49,Divorcé(e),Aucun,7,2,4.43,Oui,10.8,Oui,10.7,4,Oui,Oui,1.13,46.5,1031.0,83800.0,8.9,0
+61,Est,Gourma,Bénéficiaire,Homme,33,Marié(e) monogame,Primaire,2,3,0.38,Non,3.9,Oui,17.3,0,Oui,Oui,1.12,59.6,679.0,239300.0,10.3,0
+62,Nord,Yatenga,Témoin,Homme,37,Marié(e) polygame,Aucun,10,2,1.58,Non,4.7,Non,3.5,0,Oui,Non,0.01,32.9,569.0,111100.0,6.2,0
+63,Nord,Zondoma,Témoin,Homme,48,Célibataire,Aucun,12,4,0.29,Non,8.2,Oui,9.1,0,Non,Non,0.32,43.2,569.0,120000.0,6.2,1
+64,Est,Gnagna,Témoin,Homme,40,Marié(e) monogame,Secondaire,7,2,3.79,Oui,3.8,Oui,21.5,0,Oui,Non,0.47,54.1,607.0,121600.0,5.5,1
+65,Est,Komondjari,Témoin,Homme,52,Marié(e) polygame,Aucun,2,5,1.56,Non,12.1,Non,30.5,0,Non,Oui,0.32,35.0,451.0,103800.0,6.5,1
+66,Est,Komondjari,Témoin,Femme,26,Marié(e) polygame,Aucun,5,5,0.78,Non,23.6,Oui,1.0,1,Non,Oui,0.37,34.8,471.0,141600.0,9.0,0
+67,Nord,Passoré,Bénéficiaire,Homme,20,Marié(e) monogame,Secondaire,8,5,3.1,Non,3.8,Non,17.2,4,Oui,Oui,0.85,49.7,1369.0,170700.0,8.8,0
+68,Est,Gnagna,Bénéficiaire,Homme,30,Veuf/Veuve,Aucun,6,2,4.61,Non,6.9,Non,18.8,2,Non,Oui,0.68,49.3,1092.0,150100.0,8.0,0
+69,Nord,Passoré,Bénéficiaire,Homme,57,Veuf/Veuve,Primaire,11,2,2.32,Non,1.0,Oui,1.0,1,Oui,Non,1.67,55.3,1105.0,173000.0,8.5,0
+70,Nord,Passoré,Bénéficiaire,Homme,36,Divorcé(e),Aucun,4,1,4.63,Non,2.7,Oui,1.0,6,Non,Non,2.11,56.4,1240.0,184900.0,5.9,0
+71,Est,Gourma,Témoin,Femme,55,Veuf/Veuve,Primaire,8,1,0.45,Non,6.0,Non,14.9,0,Non,Non,0.03,19.2,696.0,125700.0,3.4,1
+72,Est,Gourma,Bénéficiaire,Homme,46,Marié(e) monogame,Primaire,3,2,1.24,Non,10.4,Oui,10.3,4,Oui,Non,1.43,69.3,1191.0,178400.0,9.3,0
+73,Nord,Zondoma,Témoin,Homme,40,Marié(e) monogame,Secondaire,3,1,0.25,Non,5.3,Oui,1.0,0,Non,Non,0.85,53.3,321.0,141700.0,4.0,1
+74,Est,Gourma,Bénéficiaire,Femme,47,Veuf/Veuve,Aucun,6,3,2.61,Oui,8.7,Oui,22.8,2,Non,Oui,0.65,48.5,919.0,119200.0,6.8,0
+75,Est,Komondjari,Témoin,Homme,43,Divorcé(e),Aucun,4,1,6.59,Oui,0.5,Oui,28.5,0,Non,Non,0.39,37.5,934.0,118800.0,6.0,0
+76,Est,Gnagna,Bénéficiaire,Homme,66,Marié(e) polygame,Aucun,11,3,7.6,Oui,15.7,Oui,1.3,6,Oui,Non,2.53,57.0,1270.0,112600.0,8.6,0
+77,Nord,Zondoma,Bénéficiaire,Homme,48,Marié(e) polygame,Aucun,6,3,4.24,Oui,6.8,Oui,31.3,2,Oui,Oui,2.61,61.9,981.0,153200.0,8.9,0
+78,Nord,Passoré,Bénéficiaire,Homme,56,Marié(e) polygame,Aucun,10,1,0.62,Oui,1.3,Oui,9.3,0,Oui,Oui,1.32,49.4,675.0,118400.0,7.0,0
+79,Nord,Passoré,Témoin,Femme,41,Veuf/Veuve,Secondaire,10,3,2.29,Non,3.8,Oui,1.0,0,Non,Non,0.16,48.6,545.0,80200.0,7.5,0
+80,Nord,Yatenga,Bénéficiaire,Homme,50,Célibataire,Aucun,7,5,1.83,,7.0,Non,11.0,4,Oui,Non,0.43,53.0,1020.0,181600.0,10.1,0
+81,Est,Gnagna,Bénéficiaire,Femme,45,Célibataire,Primaire,8,4,2.67,Oui,1.8,Oui,19.5,2,Non,Oui,4.1,50.3,871.0,159300.0,10.4,0
+82,Nord,Passoré,Bénéficiaire,Femme,35,Marié(e) monogame,Aucun,8,5,0.25,Oui,7.4,Non,7.6,2,Oui,Non,1.28,60.7,1166.0,162600.0,9.9,0
+83,Nord,Yatenga,Bénéficiaire,Homme,36,Marié(e) polygame,Primaire,8,1,2.05,Oui,5.3,Oui,21.8,1,Oui,Oui,1.73,40.4,827.0,168300.0,9.1,0
+84,Est,Gourma,Bénéficiaire,Homme,45,Célibataire,Aucun,4,1,5.71,Non,12.7,Oui,10.2,1,Oui,Oui,2.81,54.6,1191.0,111300.0,6.9,0
+85,Nord,Passoré,Bénéficiaire,Homme,52,Marié(e) monogame,Primaire,10,1,0.41,Non,17.0,Oui,13.8,4,Non,Oui,2.61,29.9,1042.0,190500.0,8.5,0
+86,Nord,Yatenga,Témoin,Homme,59,Marié(e) monogame,Aucun,9,2,2.59,Non,6.6,Oui,5.9,0,Non,Non,0.18,47.3,433.0,89400.0,5.9,0
+87,Est,Gnagna,Bénéficiaire,Homme,47,Marié(e) monogame,Aucun,8,1,3.06,,6.7,Non,34.1,4,Oui,Oui,2.31,48.6,675.0,149600.0,6.6,0
+88,Nord,Yatenga,Bénéficiaire,Homme,25,Marié(e) monogame,Aucun,9,4,2.83,Non,2.0,Non,15.0,3,Non,Non,0.77,59.5,930.0,221100.0,10.8,0
+89,Est,Komondjari,Témoin,Femme,36,Célibataire,Aucun,6,1,1.96,Non,14.6,Non,2.8,2,Oui,Non,0.05,28.0,651.0,123100.0,7.6,0
+90,Est,Komondjari,Témoin,Homme,65,Marié(e) monogame,Aucun,4,4,1.41,Non,7.5,Oui,15.5,1,Non,Non,0.68,53.8,447.0,84500.0,9.4,0
+91,Nord,Yatenga,Bénéficiaire,Homme,33,Marié(e) monogame,Primaire,5,4,4.11,Non,0.9,Oui,20.8,5,Oui,Oui,3.14,48.3,971.0,212200.0,10.3,0
+92,Nord,Zondoma,Bénéficiaire,Homme,20,Marié(e) monogame,Supérieur,4,3,1.64,Oui,1.7,Oui,8.5,3,Oui,Oui,1.67,65.6,912.0,194300.0,11.2,0
+93,Est,Gnagna,Bénéficiaire,Femme,67,Célibataire,Aucun,6,3,2.43,Non,2.7,Non,26.0,1,Non,Oui,1.08,46.1,884.0,158500.0,6.6,0
+94,Est,Gnagna,Témoin,Homme,49,Marié(e) polygame,Secondaire,5,4,2.95,Oui,4.6,Non,4.8,1,Non,Non,0.38,36.5,736.0,167800.0,6.7,1
+95,Est,Komondjari,Bénéficiaire,Homme,28,Marié(e) monogame,Aucun,10,5,3.7,Non,10.7,Oui,34.3,3,Oui,Non,4.61,69.1,947.0,146200.0,10.5,0
+96,Est,Komondjari,Bénéficiaire,Homme,37,Marié(e) monogame,Aucun,8,3,0.93,Non,5.1,Non,24.3,2,Oui,Non,1.45,51.7,962.0,162200.0,10.6,0
+97,Nord,Passoré,Bénéficiaire,Homme,35,Marié(e) monogame,Secondaire,13,5,1.7,Non,3.5,Oui,14.2,5,Oui,Non,2.36,59.9,888.0,229000.0,10.4,0
+98,Nord,Passoré,Témoin,Femme,34,Marié(e) monogame,Aucun,4,4,0.9,Non,9.1,Oui,5.4,0,Oui,Oui,0.73,39.6,586.0,127600.0,5.2,1
+99,Nord,Passoré,Témoin,Femme,57,Marié(e) monogame,Aucun,16,3,1.83,Oui,2.4,Non,17.3,2,Non,Non,0.15,27.1,577.0,149800.0,6.4,1
+100,Nord,Passoré,Témoin,Femme,37,Marié(e) monogame,Aucun,3,4,2.88,Non,7.5,Non,18.3,0,Non,Non,0.38,46.5,713.0,101200.0,3.9,1
+101,Est,Komondjari,Témoin,Homme,37,Marié(e) polygame,Primaire,12,4,4.03,,5.4,Oui,7.9,1,Non,Non,0.11,32.7,919.0,160000.0,7.7,1
+102,Est,Gourma,Bénéficiaire,Homme,57,Célibataire,Aucun,7,2,2.07,Non,3.7,Non,14.8,1,Non,Oui,0.68,51.6,1057.0,155600.0,7.5,0
+103,Est,Komondjari,Témoin,Homme,39,Veuf/Veuve,Primaire,3,5,2.14,Oui,5.5,Non,31.2,0,Non,Non,0.2,41.8,343.0,105300.0,6.1,0
+104,Est,Gourma,Témoin,Homme,45,Marié(e) polygame,Aucun,4,3,1.95,Non,2.1,Oui,55.9,0,Non,Non,0.35,51.4,864.0,110400.0,6.9,0
+105,Nord,Yatenga,Bénéficiaire,Homme,26,Veuf/Veuve,Aucun,11,5,1.58,Non,4.9,Non,17.3,5,Oui,Oui,1.27,71.0,1176.0,168900.0,8.5,0
+106,Nord,Yatenga,Témoin,Femme,38,Marié(e) monogame,Aucun,12,3,1.51,Non,9.7,Non,35.8,2,Oui,Non,0.03,29.1,460.0,75800.0,7.4,0
+107,Nord,Passoré,Témoin,Homme,31,Marié(e) monogame,Secondaire,7,4,3.02,Oui,5.3,Oui,9.0,0,Oui,Non,0.15,43.6,925.0,54100.0,8.6,0
+108,Est,Gourma,Bénéficiaire,Homme,32,Divorcé(e),Primaire,9,3,1.22,Non,8.3,Non,10.6,6,Oui,Non,0.94,56.0,1030.0,174900.0,7.8,0
+109,Est,Gnagna,Témoin,Homme,37,Marié(e) polygame,Aucun,10,2,5.21,Non,1.3,Oui,33.3,0,Non,Non,0.03,49.4,893.0,121900.0,4.3,0
+110,Nord,Passoré,Bénéficiaire,Homme,62,Marié(e) monogame,Aucun,3,1,2.36,Non,4.0,Oui,9.9,3,Oui,Oui,1.02,54.4,954.0,118800.0,6.0,1
+111,Est,Komondjari,Bénéficiaire,Homme,32,Veuf/Veuve,Primaire,7,4,0.25,Non,6.1,Oui,19.6,1,Oui,Non,1.69,80.0,898.0,215900.0,11.3,0
+112,Nord,Zondoma,Bénéficiaire,Homme,36,Marié(e) monogame,Aucun,9,4,2.93,Non,4.4,Non,11.0,6,Oui,Oui,2.23,35.8,1156.0,209700.0,9.3,0
+113,Nord,Passoré,Bénéficiaire,Femme,28,Divorcé(e),Aucun,12,3,0.43,Non,8.1,Oui,21.5,2,Non,Non,1.44,63.4,554.0,155000.0,10.2,0
+114,Nord,Passoré,Témoin,Femme,38,Marié(e) monogame,Aucun,6,4,2.64,Non,4.7,Oui,29.5,0,Non,Non,0.21,38.2,622.0,130900.0,6.8,0
+115,Nord,Passoré,Témoin,Homme,24,Marié(e) monogame,Aucun,7,3,1.79,Non,1.2,Oui,44.6,0,Non,Non,0.68,41.8,592.0,101800.0,6.8,0
+116,Nord,Zondoma,Témoin,Homme,33,Marié(e) polygame,Aucun,8,4,1.64,Non,2.2,Oui,44.2,1,Oui,Oui,1.61,41.2,713.0,102900.0,7.7,0
+117,Nord,Passoré,Bénéficiaire,Femme,39,Marié(e) monogame,Primaire,6,3,0.65,Oui,1.9,Non,19.0,3,Oui,Oui,2.11,50.0,888.0,123100.0,5.2,0
+118,Nord,Passoré,Bénéficiaire,Homme,20,Célibataire,Aucun,7,3,0.45,Non,3.1,Oui,14.8,4,Oui,Oui,0.13,67.3,855.0,178900.0,9.3,0
+119,Nord,Yatenga,Témoin,Homme,35,Célibataire,Aucun,6,3,0.81,Non,4.9,Non,7.3,0,Non,Non,0.39,47.4,691.0,132300.0,6.2,0
+120,Nord,Zondoma,Bénéficiaire,Femme,46,Veuf/Veuve,Primaire,7,4,2.37,Oui,11.2,Oui,10.2,6,Oui,Oui,1.13,61.9,1209.0,154600.0,9.4,0
+121,Nord,Yatenga,Témoin,Femme,57,Marié(e) monogame,Aucun,8,5,2.08,Non,2.4,Non,20.7,0,Non,Non,0.16,33.4,713.0,49700.0,8.2,0
+122,Est,Komondjari,Témoin,Homme,47,Divorcé(e),Aucun,2,3,1.11,Oui,5.9,Non,12.5,1,Non,Non,0.3,30.1,491.0,83300.0,7.6,0
+123,Est,Gnagna,Bénéficiaire,Femme,39,Marié(e) polygame,Primaire,7,2,2.22,Non,4.8,Oui,4.1,2,Non,Non,2.26,42.3,1028.0,151200.0,6.4,0
+124,Est,Gnagna,Témoin,Homme,26,Marié(e) monogame,Aucun,10,4,3.26,Oui,1.0,Oui,38.0,1,Non,Non,1.3,58.3,543.0,102500.0,7.4,0
+125,Nord,Passoré,Témoin,Homme,37,Marié(e) monogame,Aucun,6,5,0.46,Non,5.8,Non,2.5,0,Non,Non,1.07,38.9,599.0,82600.0,6.8,1
+126,Est,Gourma,Bénéficiaire,Homme,47,Marié(e) monogame,Secondaire,3,2,0.63,Non,2.2,Oui,22.5,2,Oui,Oui,0.32,78.3,930.0,187000.0,8.7,0
+127,Est,Komondjari,Bénéficiaire,Homme,35,Célibataire,Secondaire,8,4,0.26,Non,1.3,Non,10.8,1,Oui,Non,2.99,61.5,935.0,147100.0,8.2,0
+128,Nord,Zondoma,Témoin,Femme,48,Marié(e) monogame,Secondaire,9,1,2.9,Non,3.9,Oui,1.0,1,Non,Non,0.19,32.0,683.0,138000.0,7.5,1
+129,Est,Gourma,Témoin,Homme,49,Divorcé(e),Aucun,8,1,0.28,Non,1.6,Oui,24.3,1,Non,Non,0.55,20.4,634.0,120500.0,5.5,1
+130,Nord,Passoré,Bénéficiaire,Homme,53,Célibataire,Primaire,5,1,2.78,Oui,3.1,Non,32.4,4,Oui,Oui,3.44,47.2,1093.0,153100.0,9.1,0
+131,Est,Gnagna,Bénéficiaire,Homme,49,Marié(e) polygame,Primaire,6,5,1.12,Oui,5.1,Oui,4.2,2,Oui,Oui,1.58,65.5,1042.0,158500.0,7.6,0
+132,Est,Gnagna,Témoin,Femme,31,Marié(e) monogame,Supérieur,4,3,1.62,Non,7.2,Oui,1.0,0,Non,Oui,0.2,60.1,770.0,123900.0,3.3,0
+133,Est,Gnagna,Bénéficiaire,Homme,43,Marié(e) polygame,Aucun,8,3,2.44,Non,4.2,Oui,12.1,2,Non,Oui,1.23,50.8,1047.0,106700.0,10.3,0
+134,Nord,Yatenga,Bénéficiaire,Homme,40,Marié(e) polygame,Primaire,7,4,1.43,Oui,1.5,Non,3.9,5,Oui,Oui,2.69,42.0,1015.0,223900.0,10.2,0
+135,Nord,Yatenga,Bénéficiaire,Femme,48,Marié(e) monogame,Primaire,9,1,0.39,Non,5.3,Non,1.0,4,Oui,Non,1.51,35.0,836.0,153900.0,8.1,0
+136,Est,Gourma,Témoin,Homme,31,Marié(e) polygame,Aucun,6,2,2.08,Non,4.6,Oui,13.4,0,Non,Non,0.2,37.0,624.0,121300.0,7.3,0
+137,Nord,Yatenga,Bénéficiaire,Homme,38,Marié(e) monogame,Supérieur,6,2,0.86,Non,5.6,Oui,20.8,2,Non,Non,3.04,56.1,886.0,120000.0,4.0,0
+138,Est,Komondjari,Témoin,Homme,62,Célibataire,Primaire,8,2,4.32,Non,2.0,Oui,5.4,2,Non,Oui,0.36,43.9,779.0,146700.0,6.4,0
+139,Nord,Passoré,Bénéficiaire,Homme,37,Marié(e) monogame,Supérieur,4,2,2.04,Non,6.3,Non,9.7,3,Oui,Oui,1.9,51.1,1036.0,169500.0,9.8,0
+140,Nord,Passoré,Bénéficiaire,Homme,43,Célibataire,Primaire,10,2,0.78,Oui,5.1,Non,11.1,3,Oui,Oui,0.41,43.8,954.0,158900.0,7.1,0
+141,Nord,Passoré,Bénéficiaire,Homme,31,Marié(e) monogame,Aucun,7,5,4.98,Non,1.4,Non,7.3,3,Non,Oui,0.78,65.2,1120.0,195400.0,9.6,0
+142,Nord,Zondoma,Témoin,Homme,52,Marié(e) monogame,Secondaire,7,1,1.43,Non,13.6,Oui,10.6,1,Non,Non,0.08,43.4,772.0,114200.0,8.3,0
+143,Est,Gourma,Bénéficiaire,Femme,30,Marié(e) monogame,Primaire,8,3,0.25,Oui,9.8,Oui,12.5,4,Oui,Oui,2.73,54.8,1081.0,183700.0,10.6,0
+144,Est,Gnagna,Bénéficiaire,Homme,40,Marié(e) monogame,Primaire,10,4,4.75,Non,3.0,Oui,14.6,4,Oui,Non,0.85,41.3,1369.0,186700.0,10.9,0
+145,Est,Komondjari,Bénéficiaire,Homme,47,Marié(e) polygame,Aucun,11,1,3.52,Oui,2.1,Oui,2.2,5,Oui,Oui,0.95,51.4,1027.0,72400.0,7.1,0
+146,Nord,Yatenga,Bénéficiaire,Homme,20,Célibataire,Primaire,4,2,3.01,Oui,3.7,Non,2.6,6,Oui,Non,2.17,52.8,1074.0,133200.0,8.3,0
+147,Nord,Passoré,Bénéficiaire,Homme,50,Marié(e) polygame,Aucun,8,1,2.76,Oui,8.3,Non,8.6,0,Oui,Oui,0.54,36.0,779.0,181400.0,8.4,0
+148,Nord,Yatenga,Témoin,Homme,27,Marié(e) monogame,Secondaire,5,5,2.09,Non,9.4,Non,9.1,1,Non,Non,0.1,42.1,642.0,128300.0,7.7,0
+149,Est,Komondjari,Témoin,Homme,41,Marié(e) polygame,,6,5,1.3,Non,3.7,Oui,14.0,0,Non,Non,0.25,52.7,584.0,186400.0,8.4,0
+150,Nord,Yatenga,Bénéficiaire,Homme,29,Marié(e) monogame,Primaire,5,1,2.48,Non,4.1,Non,47.6,2,Oui,Oui,1.23,55.8,1075.0,90600.0,6.1,0
+151,Est,Gnagna,Témoin,Homme,54,Marié(e) monogame,Primaire,4,3,3.97,Non,10.0,Non,13.9,1,Non,Non,0.23,58.4,472.0,158200.0,5.8,1
+152,Nord,Passoré,Témoin,Femme,45,Marié(e) monogame,Aucun,12,3,3.32,Non,11.4,Non,31.3,0,Non,Non,0.19,30.8,545.0,176700.0,8.7,0
+153,Nord,Yatenga,Bénéficiaire,Homme,48,Marié(e) polygame,Primaire,6,3,4.31,Oui,13.0,Non,10.2,1,Oui,Non,2.88,61.2,1065.0,179000.0,7.8,0
+154,Nord,Yatenga,Bénéficiaire,Femme,36,Marié(e) monogame,Aucun,4,5,2.15,Non,3.1,Non,9.0,6,Oui,Non,2.96,46.5,1506.0,193500.0,10.0,0
+155,Est,Komondjari,Bénéficiaire,Homme,25,Marié(e) monogame,Secondaire,7,4,1.05,Non,4.6,Non,6.1,6,Oui,Oui,1.45,51.6,783.0,130900.0,12.0,0
+156,Nord,Yatenga,Témoin,Femme,36,Marié(e) monogame,Aucun,5,3,2.55,Oui,10.6,Non,20.6,1,Non,Non,0.24,37.2,791.0,74800.0,4.0,1
+157,Nord,Zondoma,Bénéficiaire,Femme,45,Divorcé(e),Aucun,8,2,0.25,Non,5.2,Non,2.4,3,Oui,Non,3.19,60.8,902.0,176400.0,8.3,0
+158,Est,Gnagna,Bénéficiaire,Homme,45,Marié(e) monogame,Secondaire,8,4,1.46,Oui,6.8,Oui,2.1,3,Oui,Non,0.93,51.5,1053.0,187100.0,9.6,0
+159,Est,Gourma,Témoin,Homme,27,Marié(e) monogame,Aucun,12,2,6.1,Oui,6.4,Non,4.0,0,Oui,Non,0.55,36.7,422.0,103600.0,3.6,0
+160,Nord,Passoré,Bénéficiaire,Femme,50,Marié(e) monogame,Secondaire,5,2,3.67,Non,10.0,Non,6.1,3,Oui,Oui,2.09,51.6,1143.0,157200.0,7.4,0
+161,Nord,Yatenga,Bénéficiaire,Homme,54,Marié(e) monogame,Primaire,5,2,1.04,Non,8.8,Oui,1.0,3,Oui,Oui,0.85,40.5,852.0,195800.0,10.3,0
+162,Nord,Passoré,Bénéficiaire,Homme,48,Marié(e) monogame,Aucun,10,5,2.15,Oui,5.2,Non,6.9,3,Non,Non,1.33,51.8,1040.0,157200.0,7.8,0
+163,Est,Gnagna,Bénéficiaire,Homme,40,Veuf/Veuve,Aucun,7,1,1.47,Non,6.7,Non,30.0,3,Non,Non,1.62,34.9,1200.0,132200.0,5.8,0
+164,Nord,Zondoma,Témoin,Homme,39,Marié(e) monogame,Secondaire,7,3,4.46,Oui,4.6,Non,1.0,1,Non,Non,0.1,33.2,912.0,139300.0,4.9,0
+165,Est,Gnagna,Témoin,Femme,36,Marié(e) monogame,Supérieur,5,2,1.42,Non,1.5,Oui,9.5,0,Non,Non,0.33,51.0,389.0,140500.0,7.9,0
+166,Est,Gnagna,Bénéficiaire,Homme,60,Marié(e) polygame,Aucun,4,4,3.37,Non,1.9,Oui,1.0,1,Non,Oui,3.16,62.6,897.0,140000.0,7.9,0
+167,Nord,Yatenga,Bénéficiaire,Homme,45,Veuf/Veuve,Secondaire,10,3,0.25,Oui,5.9,Oui,7.8,6,Oui,Non,1.2,64.9,1263.0,189800.0,10.4,0
+168,Est,Gnagna,Témoin,Femme,42,Célibataire,Secondaire,8,4,3.81,Oui,0.7,Non,12.9,1,Oui,Non,0.18,63.7,669.0,98800.0,7.4,0
+169,Nord,Yatenga,Témoin,Homme,52,Marié(e) monogame,Aucun,5,3,2.31,Non,2.4,Non,9.9,2,Oui,Non,0.14,50.8,839.0,61600.0,3.5,1
+170,Est,Komondjari,Bénéficiaire,Homme,43,Veuf/Veuve,Primaire,10,5,1.7,Oui,3.8,Oui,18.5,4,Oui,Oui,2.89,62.8,1130.0,164300.0,8.6,0
+171,Nord,Passoré,Témoin,Femme,40,Marié(e) monogame,Secondaire,4,4,2.99,Oui,6.2,Oui,15.7,0,Non,Non,0.28,46.5,881.0,131300.0,7.6,0
+172,Nord,Yatenga,Bénéficiaire,Homme,20,Marié(e) monogame,Aucun,8,4,0.65,Non,5.4,Oui,13.8,3,Non,Oui,0.6,69.7,843.0,190400.0,7.6,0
+173,Nord,Zondoma,Bénéficiaire,Homme,51,Marié(e) monogame,Primaire,5,3,1.31,Non,8.9,Oui,3.0,1,Non,Oui,1.08,36.4,902.0,173000.0,8.2,0
+174,Nord,Passoré,Témoin,Homme,48,Marié(e) monogame,Aucun,8,2,6.39,Non,3.4,Non,9.3,0,Non,Non,0.12,24.5,643.0,111000.0,4.5,1
+175,Est,Komondjari,Bénéficiaire,Homme,41,Marié(e) monogame,Secondaire,8,3,3.68,Non,13.0,Non,37.4,5,Oui,Oui,1.2,64.9,1128.0,205900.0,9.5,0
+176,Est,Gourma,Témoin,Homme,25,Marié(e) monogame,Aucun,10,1,0.35,Non,9.6,Non,7.3,0,Non,Non,0.87,35.1,582.0,78900.0,3.5,0
+177,Est,Gourma,Bénéficiaire,Homme,77,Marié(e) monogame,Secondaire,10,1,1.97,Non,5.6,Oui,30.3,2,Non,Non,1.02,55.3,1030.0,75700.0,7.3,0
+178,Est,Gnagna,Bénéficiaire,Homme,58,Célibataire,Aucun,7,4,1.83,Non,7.5,Oui,1.8,1,Oui,Non,1.1,58.2,783.0,134300.0,6.2,0
+179,Nord,Zondoma,Bénéficiaire,Homme,42,Veuf/Veuve,Aucun,10,3,4.28,Oui,3.7,Non,10.5,1,Oui,Oui,1.84,36.3,761.0,88000.0,7.1,0
+180,Est,Komondjari,Témoin,Femme,26,Marié(e) monogame,Primaire,4,4,1.31,Non,2.9,Non,19.7,1,Non,Non,0.23,46.3,947.0,126900.0,6.8,0
+181,Nord,Zondoma,Bénéficiaire,Homme,49,Marié(e) monogame,Primaire,10,5,0.64,Non,2.3,Oui,11.5,5,Non,Oui,1.07,56.1,999.0,129100.0,11.5,0
+182,Nord,Passoré,Témoin,Homme,40,Marié(e) monogame,Aucun,4,1,2.87,Oui,5.0,Oui,1.0,2,Non,Non,1.11,49.2,677.0,188700.0,5.4,0
+183,Est,Komondjari,Témoin,Homme,55,Marié(e) monogame,Aucun,3,2,4.11,Non,8.2,Oui,3.2,0,Non,Non,0.09,58.0,828.0,102700.0,6.9,0
+184,Est,Gourma,Témoin,Homme,44,Marié(e) polygame,Primaire,5,5,2.39,Non,12.0,Oui,3.5,0,Non,Non,0.31,46.9,527.0,187500.0,8.0,0
+185,Nord,Passoré,Bénéficiaire,Homme,47,Marié(e) monogame,Secondaire,7,4,1.4,Non,17.7,Oui,13.7,6,Oui,Oui,2.66,49.0,1187.0,153200.0,12.0,0
+186,Est,Gourma,Bénéficiaire,Femme,39,Marié(e) monogame,Aucun,5,5,2.14,Non,5.7,Oui,7.2,6,Oui,Oui,1.61,69.9,924.0,144700.0,10.2,0
+187,Nord,Zondoma,Témoin,Femme,59,Célibataire,Secondaire,7,1,2.19,Non,9.4,Oui,3.7,0,Non,Oui,0.5,44.2,620.0,142200.0,4.2,0
+188,Est,Komondjari,Bénéficiaire,Homme,52,Marié(e) monogame,Aucun,12,5,0.42,Non,7.8,Non,14.8,3,Oui,Non,0.97,42.0,1232.0,176800.0,8.2,1
+189,Est,Gourma,Bénéficiaire,Homme,47,Marié(e) monogame,Aucun,8,2,4.34,Oui,3.1,Oui,1.4,6,Oui,Oui,0.57,62.8,1040.0,184100.0,5.5,1
+190,Est,Komondjari,Témoin,Homme,48,Marié(e) polygame,Primaire,7,1,1.76,Non,11.7,Non,14.9,0,Non,Oui,0.97,25.0,725.0,15100.0,5.0,1
+191,Est,Gnagna,Témoin,Homme,25,Veuf/Veuve,Aucun,7,1,0.52,Non,4.0,Non,13.3,1,Non,Oui,0.45,29.9,469.0,135500.0,7.8,1
+192,Nord,Passoré,Bénéficiaire,Homme,44,Marié(e) monogame,Supérieur,5,4,0.41,Oui,2.1,Oui,39.4,4,Non,Oui,1.57,48.3,859.0,102500.0,10.9,0
+193,Est,Gourma,Témoin,Homme,28,Marié(e) monogame,Secondaire,12,1,5.61,Non,7.5,Non,48.0,1,Non,Oui,0.01,37.7,932.0,75700.0,4.6,0
+194,Nord,Zondoma,Bénéficiaire,Femme,45,Marié(e) monogame,Aucun,8,5,6.2,Non,2.7,Oui,1.1,1,Non,Oui,2.37,65.6,1065.0,169900.0,8.2,0
+195,Nord,Zondoma,Bénéficiaire,Homme,71,Veuf/Veuve,Primaire,7,3,2.47,,3.9,Oui,21.0,2,Oui,Non,0.9,49.8,1266.0,265800.0,8.8,0
+196,Nord,Passoré,Témoin,Homme,38,Marié(e) monogame,Aucun,7,1,0.68,Non,10.0,Oui,3.7,0,Non,Non,0.54,28.3,723.0,64700.0,6.3,0
+197,Nord,Zondoma,Bénéficiaire,Homme,54,Marié(e) monogame,Aucun,7,5,1.02,Non,11.9,Oui,10.7,4,Oui,Oui,1.97,59.7,1029.0,172800.0,9.5,0
+198,Est,Gnagna,Bénéficiaire,Homme,28,Marié(e) monogame,Primaire,7,3,1.02,Oui,1.3,Oui,19.3,3,Oui,Non,1.18,35.4,1023.0,180200.0,6.9,0
+199,Nord,Yatenga,Bénéficiaire,Homme,57,Marié(e) monogame,Aucun,8,1,5.28,Non,18.9,Non,27.3,0,Oui,Oui,1.42,37.3,955.0,167200.0,5.2,0
+200,Est,Gourma,Bénéficiaire,Homme,24,Marié(e) monogame,Aucun,7,3,2.69,Non,6.5,Non,5.1,3,Oui,Oui,1.33,38.7,1198.0,160000.0,9.7,0
+201,Nord,Yatenga,Bénéficiaire,Homme,35,Marié(e) monogame,Primaire,5,5,3.6,Oui,3.4,Oui,1.0,2,Non,Non,0.79,67.6,1024.0,146700.0,12.0,0
+202,Nord,Yatenga,Témoin,Homme,47,Marié(e) polygame,Secondaire,5,2,3.01,Non,8.1,Oui,16.1,1,Non,Non,0.04,56.3,992.0,131700.0,8.3,0
+203,Nord,Passoré,Témoin,Femme,29,Marié(e) monogame,Primaire,8,5,2.45,Non,8.5,Oui,20.3,1,Non,Non,0.83,33.0,570.0,123900.0,8.6,0
+204,Nord,Zondoma,Bénéficiaire,Homme,46,Marié(e) monogame,Aucun,4,3,1.93,Oui,3.7,Oui,10.4,2,Oui,Oui,1.48,66.6,1151.0,178600.0,7.2,0
+205,Est,Komondjari,Témoin,Homme,34,Marié(e) polygame,Aucun,9,5,5.93,Oui,1.6,Oui,1.9,0,Non,Oui,0.43,55.9,893.0,154500.0,6.2,0
+206,Nord,Zondoma,Bénéficiaire,Homme,36,Marié(e) monogame,Secondaire,7,1,1.38,Non,4.2,Non,13.2,1,Oui,Oui,2.65,54.3,1026.0,142400.0,5.5,0
+207,Est,Komondjari,Témoin,Homme,51,Marié(e) monogame,Aucun,5,1,1.36,Non,8.4,Non,19.7,2,Non,Non,0.18,30.5,771.0,81000.0,5.6,1
+208,Nord,Zondoma,Bénéficiaire,Homme,26,Marié(e) monogame,Primaire,11,4,3.77,Non,5.8,Non,11.4,3,Oui,Oui,2.88,49.6,953.0,204400.0,9.8,0
+209,Nord,Yatenga,Bénéficiaire,Femme,31,Marié(e) polygame,Aucun,10,1,1.02,Non,1.7,Non,12.2,2,Non,Oui,2.33,46.5,959.0,194200.0,7.7,0
+210,Nord,Yatenga,Témoin,Homme,49,Marié(e) monogame,Primaire,2,3,2.03,Non,4.5,Non,6.2,0,Oui,Non,0.46,48.4,609.0,156400.0,5.7,0
+211,Est,Gourma,Témoin,Homme,46,Marié(e) polygame,Secondaire,6,4,1.75,Non,11.5,Non,4.3,1,Oui,Non,0.15,30.1,770.0,133000.0,7.1,1
+212,Nord,Zondoma,Témoin,Homme,51,Marié(e) polygame,Supérieur,3,3,1.52,Non,5.3,Oui,5.4,0,Oui,Non,0.31,34.2,719.0,160700.0,5.5,1
+213,Nord,Yatenga,Témoin,Femme,56,Marié(e) monogame,Aucun,10,2,2.78,Non,1.7,Non,1.7,0,Oui,Non,0.4,45.4,814.0,143200.0,4.1,0
+214,Est,Gnagna,Bénéficiaire,Homme,35,Marié(e) monogame,Aucun,4,4,0.25,Non,2.3,Non,12.6,6,Oui,Oui,2.19,56.3,1129.0,146700.0,9.0,0
+215,Est,Gourma,Bénéficiaire,Femme,33,Marié(e) monogame,Secondaire,6,4,0.33,Non,9.4,Oui,13.7,2,Oui,Non,1.17,46.9,840.0,182400.0,8.9,0
+216,Est,Gourma,Témoin,Femme,60,Marié(e) monogame,Secondaire,5,1,0.83,Non,9.1,Oui,13.2,1,Non,Non,0.58,55.1,523.0,103100.0,8.3,0
+217,Nord,Zondoma,Témoin,Homme,44,Veuf/Veuve,Aucun,10,1,4.56,Non,9.9,Oui,32.9,0,Non,Oui,0.33,34.7,614.0,115700.0,5.0,1
+218,Est,Gourma,Bénéficiaire,Femme,35,Marié(e) polygame,Primaire,7,2,2.31,Oui,8.2,Oui,4.5,3,Oui,Oui,0.25,45.1,1061.0,146400.0,9.8,0
+219,Nord,Yatenga,Témoin,Femme,39,Marié(e) polygame,Secondaire,5,1,3.48,Non,7.0,Non,22.2,0,Oui,Non,0.26,33.1,620.0,111400.0,6.5,0
+220,Nord,Yatenga,Témoin,Homme,32,Marié(e) monogame,Secondaire,7,4,0.53,Non,7.6,Oui,12.6,1,Non,Non,0.02,39.4,507.0,109000.0,8.7,0
+221,Est,Gnagna,Témoin,Homme,58,Marié(e) polygame,Aucun,10,5,2.15,Non,1.3,Oui,10.2,0,Non,Non,0.02,41.5,579.0,87800.0,6.1,0
+222,Est,Gnagna,Bénéficiaire,Homme,52,Marié(e) monogame,Secondaire,8,5,1.82,,6.6,Non,35.9,3,Oui,Oui,0.82,67.8,690.0,167300.0,9.0,0
+223,Nord,Yatenga,Témoin,Femme,29,Marié(e) monogame,Aucun,3,5,3.87,Oui,17.3,Non,17.5,0,Non,Non,0.31,41.7,357.0,107500.0,7.7,0
+224,Est,Gnagna,Bénéficiaire,Homme,27,Marié(e) monogame,Supérieur,4,1,2.32,Non,13.8,Oui,30.1,6,Non,Oui,1.75,48.4,973.0,120300.0,6.5,0
+225,Nord,Zondoma,Témoin,Homme,56,Marié(e) monogame,Secondaire,5,3,1.78,Oui,1.4,Non,33.3,0,Non,Oui,0.36,22.1,567.0,105400.0,5.8,1
+226,Nord,Yatenga,Témoin,Homme,38,Marié(e) monogame,Aucun,7,2,2.53,Non,1.1,Non,49.6,1,Non,Non,0.65,35.5,426.0,92500.0,4.3,0
+227,Est,Gourma,Bénéficiaire,Femme,70,Marié(e) polygame,Aucun,7,1,6.14,Oui,0.9,Oui,1.0,3,Oui,Oui,1.48,52.2,1133.0,188800.0,3.9,0
+228,Est,Gnagna,Bénéficiaire,Homme,38,Divorcé(e),Primaire,7,4,3.15,Oui,1.8,Oui,13.9,1,Oui,Oui,2.56,63.4,1152.0,195500.0,9.3,0
+229,Est,Komondjari,Témoin,Homme,61,Marié(e) monogame,Secondaire,10,5,3.03,Non,10.1,Non,8.3,1,Non,Oui,0.48,22.9,770.0,97400.0,8.9,0
+230,Nord,Yatenga,Témoin,Homme,26,Célibataire,Primaire,5,2,3.03,Oui,2.2,Non,23.2,0,Non,Non,1.17,36.1,674.0,91700.0,5.0,0
+231,Est,Komondjari,Témoin,Homme,40,Marié(e) monogame,Aucun,8,5,3.52,Non,2.2,Oui,11.9,1,Non,Non,0.12,47.7,667.0,121100.0,9.2,0
+232,Nord,Passoré,Bénéficiaire,Homme,53,Veuf/Veuve,Primaire,10,2,2.16,Non,4.4,Oui,5.1,5,Oui,Oui,1.73,32.8,1459.0,116700.0,7.7,0
+233,Nord,Passoré,Témoin,Homme,54,Marié(e) polygame,Aucun,10,1,2.52,Oui,20.1,Non,26.6,0,Oui,Non,0.49,36.5,713.0,75600.0,2.9,1
+234,Est,Gnagna,Bénéficiaire,Homme,49,Marié(e) polygame,Secondaire,4,1,0.25,Non,0.8,Non,15.0,2,Oui,Oui,2.37,58.5,917.0,218200.0,7.4,0
+235,Nord,Passoré,Témoin,Homme,45,Marié(e) polygame,Primaire,5,2,0.25,Non,5.4,Non,6.7,1,Non,Non,0.37,33.1,827.0,39000.0,6.7,1
+236,Est,Gourma,Bénéficiaire,Homme,65,Marié(e) polygame,Aucun,10,5,2.95,Oui,3.0,Oui,10.0,1,Non,Non,1.34,55.0,866.0,124800.0,7.6,0
+237,Nord,Zondoma,Bénéficiaire,Homme,45,Célibataire,Secondaire,6,1,0.73,Oui,4.8,Non,9.1,3,Oui,Non,0.94,46.1,1022.0,181500.0,8.1,0
+238,Nord,Passoré,Témoin,Homme,39,Célibataire,Secondaire,3,2,1.7,Non,16.5,Oui,35.4,1,Non,Oui,0.08,44.0,908.0,201200.0,8.3,0
+239,Nord,Passoré,Bénéficiaire,Homme,39,Marié(e) monogame,Aucun,4,3,0.73,Oui,1.6,Oui,32.4,5,Oui,Non,1.22,69.6,1118.0,111800.0,9.1,0
+240,Est,Gnagna,Bénéficiaire,Homme,21,Célibataire,Aucun,7,5,0.75,Non,7.3,Oui,9.5,4,Non,Oui,2.81,66.9,991.0,168500.0,10.1,0
+241,Nord,Zondoma,Bénéficiaire,Homme,37,Marié(e) monogame,Aucun,5,3,4.58,Oui,3.6,Oui,22.4,6,Oui,Oui,0.72,56.2,1508.0,150000.0,9.4,0
+242,Nord,Passoré,Bénéficiaire,Homme,28,Marié(e) monogame,Aucun,7,5,1.3,Non,3.3,Oui,37.8,2,Oui,Oui,1.0,67.9,986.0,117700.0,9.8,0
+243,Est,Gnagna,Bénéficiaire,Homme,42,Marié(e) monogame,Primaire,5,2,1.21,Non,10.6,Non,14.1,3,Oui,Oui,1.28,57.9,814.0,163200.0,8.1,0
+244,Est,Gnagna,Bénéficiaire,Homme,37,Marié(e) monogame,Aucun,5,3,3.75,Non,3.0,Oui,1.0,2,Oui,Oui,1.01,46.0,1191.0,227400.0,6.9,0
+245,Nord,Zondoma,Témoin,Femme,40,Marié(e) monogame,Primaire,8,2,2.4,Oui,2.8,Non,1.0,1,Oui,Non,0.24,44.2,601.0,124800.0,5.0,0
+246,Nord,Passoré,Témoin,Homme,26,Marié(e) polygame,Aucun,5,5,2.07,Non,2.7,Oui,6.5,0,Non,Oui,0.29,43.8,839.0,110000.0,5.5,0
+247,Est,Gourma,Bénéficiaire,Homme,62,Marié(e) monogame,Secondaire,2,4,3.35,Non,8.8,Oui,4.0,2,Oui,Oui,2.21,60.5,1047.0,118900.0,7.2,0
+248,Est,Komondjari,Bénéficiaire,Femme,36,Marié(e) monogame,Aucun,9,3,1.65,Non,11.4,Oui,14.9,6,Oui,Oui,3.77,61.9,1019.0,211700.0,10.1,0
+249,Nord,Zondoma,Témoin,Homme,27,Marié(e) monogame,Primaire,9,4,1.01,Non,7.7,Oui,12.0,0,Non,Non,1.23,54.4,799.0,108800.0,9.0,0
+250,Est,Komondjari,Témoin,Homme,43,Marié(e) monogame,Aucun,7,4,2.46,Non,4.0,Oui,17.3,0,Oui,Non,0.46,44.8,585.0,163400.0,5.4,0
+251,Est,Komondjari,Témoin,Homme,43,Marié(e) polygame,Primaire,2,1,3.0,Non,11.8,Oui,60.0,0,Non,Non,0.48,45.9,628.0,38200.0,5.4,0
+252,Est,Gourma,Témoin,Homme,40,Célibataire,Aucun,7,5,2.8,Oui,6.5,Oui,1.0,0,Non,Non,0.14,35.5,735.0,91700.0,6.5,0
+253,Est,Gourma,Bénéficiaire,Homme,38,Marié(e) polygame,Aucun,3,1,0.8,Oui,5.4,Oui,3.6,6,Oui,Oui,1.33,42.3,894.0,143900.0,9.9,0
+254,Nord,Yatenga,Bénéficiaire,Homme,20,Veuf/Veuve,Primaire,6,4,0.68,Non,6.0,Oui,5.5,1,Non,Oui,3.15,54.2,1084.0,192100.0,11.9,1
+255,Nord,Passoré,Témoin,Femme,20,Célibataire,Primaire,3,3,1.82,Non,10.7,Oui,5.4,1,Non,Oui,0.54,33.9,750.0,90400.0,5.4,1
+256,Est,Gourma,Témoin,Homme,38,Divorcé(e),Secondaire,10,5,1.15,Non,2.5,Non,15.1,0,Non,Non,0.18,45.2,560.0,191400.0,6.2,0
+257,Nord,Passoré,Témoin,Homme,48,Marié(e) polygame,Aucun,6,1,1.5,,12.2,Oui,1.0,0,Non,Non,0.15,48.5,894.0,92700.0,4.3,1
+258,Nord,Yatenga,Témoin,Homme,51,Marié(e) monogame,Aucun,3,5,2.38,Non,1.5,Oui,7.3,2,Non,Oui,0.24,44.3,848.0,109600.0,8.8,0
+259,Nord,Zondoma,Témoin,Femme,35,Marié(e) monogame,Aucun,5,4,3.25,Oui,8.5,Oui,7.4,0,Oui,Non,0.58,42.7,829.0,143200.0,5.8,0
+260,Nord,Passoré,Bénéficiaire,Femme,34,Marié(e) monogame,Primaire,9,4,1.22,Oui,2.8,Non,3.8,3,Non,Non,1.42,56.6,1161.0,199600.0,9.9,0
+261,Nord,Passoré,Témoin,Homme,45,Marié(e) monogame,Primaire,9,2,2.59,Non,11.5,Oui,2.8,1,Oui,Oui,0.07,45.5,617.0,112200.0,4.8,1
+262,Est,Komondjari,Témoin,Femme,48,Marié(e) monogame,Aucun,9,3,0.77,Non,0.8,Non,12.8,0,Non,Non,0.7,35.1,679.0,124100.0,5.2,1
+263,Est,Komondjari,Bénéficiaire,Homme,51,Veuf/Veuve,Primaire,8,1,2.59,Non,5.0,Oui,1.0,4,Non,Oui,4.67,60.5,1189.0,106200.0,5.3,0
+264,Nord,Passoré,Bénéficiaire,Homme,20,Marié(e) monogame,Primaire,8,5,1.78,Non,7.0,Non,9.0,1,Non,Oui,1.38,73.4,1080.0,179500.0,6.2,0
+265,Est,Komondjari,Bénéficiaire,Homme,36,Marié(e) polygame,Aucun,7,1,2.61,Non,4.9,Oui,3.1,2,Oui,Oui,0.47,55.5,970.0,141200.0,8.1,0
+266,Nord,Yatenga,Bénéficiaire,Femme,49,Marié(e) monogame,Aucun,7,4,0.42,Oui,6.5,Oui,2.0,4,Non,Oui,1.12,58.5,627.0,188600.0,9.4,0
+267,Est,Komondjari,Témoin,Homme,48,Marié(e) monogame,Secondaire,8,5,1.68,Non,16.8,Non,3.8,0,Non,Non,0.05,42.2,711.0,185400.0,4.9,0
+268,Nord,Yatenga,Témoin,Homme,54,Marié(e) polygame,Aucun,3,5,7.92,Oui,1.8,Non,18.2,0,Non,Non,0.53,45.4,998.0,150700.0,4.4,0
+269,Nord,Yatenga,Témoin,Femme,39,Marié(e) polygame,Primaire,11,1,0.36,Non,2.3,Non,11.6,0,Non,Non,0.26,29.5,502.0,58800.0,6.6,0
+270,Nord,Zondoma,Témoin,Homme,56,Marié(e) polygame,Primaire,6,2,3.06,Non,2.3,Oui,2.5,0,Oui,Non,0.29,27.7,765.0,117900.0,6.2,1
+271,Nord,Yatenga,Témoin,Homme,50,Marié(e) monogame,Supérieur,8,3,4.18,Non,3.7,Oui,8.3,0,Non,Oui,0.79,44.3,837.0,69100.0,4.5,1
+272,Est,Gourma,Bénéficiaire,Homme,41,Marié(e) polygame,Primaire,7,5,0.81,Oui,2.2,Oui,2.1,4,Oui,Oui,2.57,60.7,1211.0,259400.0,9.0,0
+273,Nord,Yatenga,Témoin,Homme,21,Marié(e) monogame,Primaire,7,3,2.99,Non,3.1,Non,16.6,1,Non,Non,0.88,27.4,680.0,134200.0,4.6,0
+274,Est,Gourma,Témoin,Homme,57,Marié(e) monogame,Primaire,4,4,1.49,Non,3.0,Non,60.0,1,Oui,Oui,0.18,44.4,732.0,143800.0,4.9,0
+275,Nord,Yatenga,Bénéficiaire,Homme,60,Marié(e) monogame,Primaire,3,4,1.31,Non,4.7,Oui,2.0,3,Non,Oui,2.58,70.7,934.0,161500.0,12.0,0
+276,Est,Komondjari,Témoin,Homme,33,Marié(e) monogame,Aucun,2,5,4.8,,2.3,Non,28.5,0,Non,Non,0.81,60.8,810.0,146600.0,10.0,0
+277,Est,Komondjari,Témoin,Homme,46,Marié(e) polygame,Primaire,7,5,4.22,Non,4.4,Oui,19.9,1,Oui,Non,0.78,65.2,812.0,138200.0,5.5,0
+278,Est,Komondjari,Témoin,Homme,47,Marié(e) monogame,Primaire,3,5,3.76,Oui,18.4,Non,4.5,0,Non,Non,0.31,53.0,522.0,132100.0,7.9,0
+279,Est,Gnagna,Bénéficiaire,Femme,65,Marié(e) monogame,Primaire,5,4,1.41,Oui,3.1,Oui,1.6,6,Oui,Non,2.36,47.2,1177.0,198200.0,10.0,0
+280,Est,Gnagna,Bénéficiaire,Homme,39,Marié(e) monogame,Primaire,2,3,0.83,Oui,2.9,Non,24.5,2,Oui,Oui,0.73,49.4,979.0,137800.0,6.1,1
+281,Est,Komondjari,Bénéficiaire,Femme,37,Marié(e) monogame,Aucun,8,1,0.66,Non,2.8,Oui,17.7,6,Oui,Oui,3.05,40.4,837.0,140700.0,8.1,1
+282,Nord,Passoré,Témoin,Homme,45,Marié(e) monogame,Aucun,7,2,2.1,Oui,9.5,Oui,11.1,0,Oui,Non,0.12,44.6,645.0,68600.0,6.3,0
+283,Est,Gnagna,Témoin,Homme,54,Marié(e) monogame,Aucun,4,3,1.58,Oui,2.6,Non,23.3,0,Non,Non,0.26,26.1,680.0,155400.0,6.5,1
+284,Nord,Yatenga,Témoin,Homme,38,Célibataire,Secondaire,6,1,2.16,Oui,0.8,Non,16.0,0,Non,Non,0.55,17.1,478.0,42100.0,5.3,1
+285,Nord,Yatenga,Bénéficiaire,Homme,48,Marié(e) monogame,Aucun,7,5,6.04,Oui,7.2,Non,24.6,1,Non,Oui,2.17,46.8,867.0,178300.0,12.0,0
+286,Est,Gnagna,Témoin,Homme,54,Veuf/Veuve,Primaire,11,2,5.3,Non,1.9,Oui,15.6,0,Non,Non,0.66,43.4,757.0,78500.0,2.8,1
+287,Est,Komondjari,Bénéficiaire,Homme,47,Marié(e) monogame,Aucun,7,1,3.04,Non,2.3,Non,8.7,3,Oui,Oui,1.32,44.6,1299.0,98600.0,7.5,0
+288,Est,Gnagna,Bénéficiaire,Homme,46,Marié(e) monogame,Aucun,12,3,1.8,Oui,5.9,Oui,4.1,4,Oui,Oui,2.3,54.8,895.0,137000.0,8.5,0
+289,Nord,Yatenga,Témoin,Homme,57,Marié(e) monogame,Aucun,11,5,1.77,Non,8.2,Non,23.4,1,Oui,Non,0.83,44.5,810.0,119500.0,5.1,1
+290,Est,Gnagna,Témoin,Femme,43,Marié(e) monogame,Primaire,11,1,1.01,Non,7.3,Non,9.5,1,Non,Non,0.03,22.9,409.0,160500.0,4.7,1
+291,Est,Komondjari,Témoin,Homme,43,Marié(e) monogame,Secondaire,9,3,1.59,Non,3.4,Non,8.3,1,Non,Non,0.19,31.5,475.0,97200.0,8.1,1
+292,Est,Gourma,Témoin,Homme,34,Marié(e) polygame,Primaire,8,1,1.11,Non,14.4,Oui,16.5,0,Oui,Non,1.11,34.7,751.0,51200.0,1.5,1
+293,Est,Gnagna,Bénéficiaire,Homme,36,Marié(e) monogame,Aucun,8,2,5.94,Oui,1.1,Oui,19.4,4,Oui,Oui,1.7,48.7,992.0,158300.0,8.2,0
+294,Est,Gnagna,Bénéficiaire,Homme,36,Marié(e) monogame,Aucun,4,2,4.2,Non,10.8,Oui,60.0,2,Oui,Non,1.7,59.1,1207.0,178400.0,8.7,0
+295,Est,Gnagna,Témoin,Homme,47,Marié(e) polygame,Aucun,10,5,3.2,Non,9.3,Oui,14.8,1,Non,Non,0.76,46.9,902.0,145700.0,8.1,0
+296,Est,Komondjari,Bénéficiaire,Femme,61,Marié(e) monogame,Aucun,10,1,0.81,Non,4.5,Oui,7.5,5,Non,Oui,0.54,41.3,982.0,94700.0,8.7,0
+297,Est,Komondjari,Bénéficiaire,Femme,66,Marié(e) monogame,Aucun,6,4,3.3,Oui,0.7,Oui,24.9,4,Non,Non,0.36,69.9,1291.0,124900.0,8.3,0
+298,Est,Gnagna,Bénéficiaire,Homme,28,Marié(e) monogame,Aucun,8,5,0.78,Oui,0.9,Oui,25.9,2,Oui,Non,1.56,70.8,1113.0,206800.0,7.5,0
+299,Nord,Zondoma,Bénéficiaire,Homme,29,Divorcé(e),Primaire,3,3,1.59,Non,10.5,Oui,11.6,3,Oui,Oui,1.94,74.6,942.0,149300.0,11.3,0
+300,Nord,Yatenga,Bénéficiaire,Femme,29,Marié(e) polygame,Primaire,7,1,2.45,Oui,3.6,Oui,19.2,2,Oui,Non,2.71,50.5,954.0,139500.0,9.1,0
+301,Est,Gnagna,Témoin,Femme,29,Marié(e) monogame,Supérieur,7,3,2.41,Non,9.7,Non,38.9,0,Non,Non,0.92,21.3,563.0,134400.0,3.7,1
+302,Nord,Yatenga,Témoin,Homme,44,Marié(e) monogame,Primaire,8,2,2.84,Non,11.5,Non,9.8,0,Non,Oui,0.33,27.5,508.0,118800.0,6.9,1
+303,Nord,Zondoma,Témoin,Homme,41,Marié(e) monogame,Primaire,7,1,0.91,Oui,3.7,Non,5.4,1,Non,Non,0.11,18.2,792.0,114200.0,5.0,1
+304,Est,Komondjari,Bénéficiaire,Homme,48,Marié(e) monogame,Aucun,5,2,2.25,Non,7.4,Oui,8.1,3,Oui,Oui,0.53,52.1,1064.0,180100.0,6.5,0
+305,Est,Gourma,Bénéficiaire,Homme,24,Célibataire,Secondaire,12,4,0.62,Non,7.0,Non,16.5,6,Non,Oui,1.36,58.7,1188.0,156500.0,7.9,0
+306,Est,Komondjari,Témoin,Homme,56,Marié(e) polygame,Secondaire,8,1,2.44,Non,,Non,17.8,0,Non,Non,0.25,7.5,651.0,98400.0,2.7,1
+307,Nord,Passoré,Témoin,Homme,51,Marié(e) monogame,Aucun,6,5,0.7,Non,6.5,Non,3.0,0,Non,Non,0.06,42.7,409.0,146100.0,5.7,0
+308,Nord,Passoré,Témoin,Homme,48,Marié(e) monogame,Aucun,9,4,2.08,Non,8.6,Oui,27.4,0,Non,Non,0.12,46.1,653.0,94800.0,7.5,0
+309,Nord,Yatenga,Bénéficiaire,Homme,59,Marié(e) polygame,Supérieur,13,4,2.77,Oui,0.5,Non,21.3,2,Non,Oui,1.3,46.9,1061.0,145700.0,7.2,0
+310,Nord,Yatenga,Témoin,Homme,53,Marié(e) polygame,Primaire,4,3,1.61,Oui,10.9,Oui,24.3,0,Non,Non,0.11,38.6,830.0,174000.0,8.7,0
+311,Nord,Zondoma,Témoin,Homme,38,Marié(e) monogame,Primaire,5,4,2.25,Non,4.4,Non,16.8,1,Non,Non,0.68,35.7,589.0,46100.0,8.2,0
+312,Nord,Passoré,Témoin,Femme,39,Marié(e) monogame,Primaire,6,2,0.71,Non,7.5,Non,14.0,0,Non,Non,0.19,34.5,677.0,86400.0,5.4,1
+313,Est,Gnagna,Bénéficiaire,Homme,39,Célibataire,Aucun,13,1,8.68,Non,4.6,Oui,13.1,5,Non,Oui,0.89,40.8,1459.0,183400.0,10.6,0
+314,Est,Gourma,Témoin,Homme,39,Veuf/Veuve,Primaire,9,5,7.95,Non,5.1,Oui,8.0,1,Non,Non,0.24,57.0,775.0,120500.0,7.7,0
+315,Est,Komondjari,Témoin,Homme,39,Marié(e) monogame,Primaire,11,5,0.7,Oui,7.1,Oui,1.0,0,Non,Non,0.38,53.6,615.0,141300.0,5.9,0
+316,Est,Gnagna,Bénéficiaire,Homme,47,Marié(e) monogame,Secondaire,8,1,4.16,Non,7.7,Oui,3.9,2,Non,Oui,1.46,59.6,898.0,189100.0,5.8,0
+317,Est,Komondjari,Bénéficiaire,Femme,45,Marié(e) monogame,Aucun,2,1,1.9,Oui,5.0,Non,10.8,3,Oui,Oui,0.39,42.6,815.0,147900.0,4.0,0
+318,Est,Gourma,Témoin,Homme,57,Célibataire,Primaire,5,3,1.82,Non,4.5,Oui,1.7,0,Oui,Non,0.1,57.2,665.0,134900.0,6.2,0
+319,Est,Gourma,Bénéficiaire,Homme,25,Marié(e) monogame,Primaire,3,3,6.29,Non,15.1,Oui,9.9,1,Non,Oui,0.7,67.5,950.0,151000.0,10.5,0
+320,Nord,Passoré,Bénéficiaire,Homme,32,Marié(e) monogame,Primaire,8,5,1.83,Non,4.6,Oui,1.0,5,Oui,Oui,0.73,52.5,860.0,241400.0,11.1,0
+321,Est,Komondjari,Témoin,Homme,30,Marié(e) monogame,Aucun,11,2,2.28,Non,0.6,Non,13.8,1,Non,Non,0.19,15.8,606.0,76200.0,4.6,0
+322,Nord,Yatenga,Témoin,Homme,58,Marié(e) monogame,Aucun,6,5,3.75,Non,2.1,Oui,11.1,0,Non,Non,1.4,59.7,592.0,124000.0,5.9,0
+323,Est,Gnagna,Bénéficiaire,Homme,39,Marié(e) monogame,Aucun,5,1,2.57,Non,3.9,Non,11.9,3,Oui,Non,4.22,40.3,993.0,97700.0,7.0,0
+324,Est,Gourma,Témoin,Femme,29,Divorcé(e),Aucun,4,1,4.42,Oui,3.1,Oui,28.5,0,Non,Non,0.0,44.5,614.0,121500.0,5.3,0
+325,Est,Gnagna,Bénéficiaire,Homme,44,Veuf/Veuve,Primaire,3,4,1.08,Non,4.1,Oui,6.8,3,Non,Oui,2.03,69.6,630.0,138100.0,9.6,0
+326,Est,Gourma,Témoin,Homme,55,Marié(e) polygame,Aucun,9,2,0.93,Non,5.3,Non,19.8,1,Non,Non,1.08,35.3,525.0,132800.0,2.8,0
+327,Est,Gnagna,Témoin,Homme,49,Marié(e) polygame,Aucun,6,2,7.18,Non,4.0,Non,40.9,0,Oui,Non,0.05,40.9,857.0,67000.0,6.3,1
+328,Est,Komondjari,Bénéficiaire,Homme,25,Marié(e) monogame,Aucun,7,5,1.26,Non,24.4,Non,28.9,5,Oui,Non,0.62,70.2,1022.0,180800.0,9.6,0
+329,Est,Gourma,Témoin,Femme,51,Marié(e) monogame,Primaire,5,1,3.82,Non,10.5,Oui,22.3,0,Non,Non,0.67,54.1,554.0,135300.0,4.4,1
+330,Nord,Yatenga,Bénéficiaire,Homme,33,Marié(e) monogame,Primaire,8,2,0.67,Non,4.9,Non,4.7,1,Non,Non,0.83,52.0,902.0,100800.0,6.3,0
+331,Est,Gourma,Bénéficiaire,Homme,60,Marié(e) monogame,Secondaire,9,1,0.32,Non,2.7,Non,21.0,2,Oui,Oui,1.73,59.6,818.0,175600.0,7.3,0
+332,Est,Gnagna,Témoin,Homme,47,Marié(e) polygame,Aucun,8,4,3.97,Non,0.5,Non,19.9,0,Non,Non,0.57,42.7,750.0,143200.0,7.4,0
+333,Est,Gourma,Témoin,Homme,34,Marié(e) monogame,Aucun,3,3,2.62,Non,7.5,Non,14.3,0,Non,Non,0.1,34.0,550.0,175400.0,7.2,0
+334,Est,Komondjari,Bénéficiaire,Homme,37,Veuf/Veuve,Aucun,3,4,2.67,Non,7.3,Oui,8.9,4,Non,Non,0.45,69.9,1028.0,166300.0,7.8,0
+335,Est,Komondjari,Bénéficiaire,Homme,54,Marié(e) polygame,Secondaire,7,3,1.88,Non,1.0,Non,4.2,2,Oui,Non,1.19,38.2,904.0,204100.0,6.4,0
+336,Est,Gnagna,Témoin,Homme,60,Marié(e) monogame,Secondaire,10,4,1.19,Non,5.9,Non,47.7,0,Non,Non,0.36,34.5,544.0,81000.0,6.7,0
+337,Nord,Yatenga,Bénéficiaire,Femme,33,Veuf/Veuve,Primaire,10,3,2.28,Non,6.9,Oui,7.9,4,Non,Oui,2.29,50.1,943.0,114600.0,12.0,0
+338,Nord,Zondoma,Bénéficiaire,Homme,26,Marié(e) polygame,Aucun,3,2,2.57,Non,4.0,Oui,11.2,6,Non,Oui,1.15,40.3,1027.0,165100.0,6.9,0
+339,Nord,Passoré,Témoin,Femme,40,Célibataire,Aucun,4,2,1.65,Non,8.4,Non,39.7,1,Oui,Non,0.04,35.6,751.0,136100.0,5.1,1
+340,Est,Gnagna,Bénéficiaire,Homme,45,Marié(e) polygame,Aucun,5,5,2.92,Oui,4.7,Oui,28.8,2,Oui,Oui,2.22,53.7,1053.0,121200.0,9.0,0
+341,Est,Gourma,Témoin,Homme,40,Marié(e) monogame,Supérieur,3,1,1.21,Non,9.4,Non,2.3,0,Non,Oui,0.49,46.8,490.0,96800.0,6.3,1
+342,Est,Gnagna,Témoin,Femme,45,Marié(e) monogame,Aucun,7,1,5.81,Non,3.6,Non,22.2,0,Non,Oui,0.71,23.7,760.0,126700.0,7.9,1
+343,Est,Gnagna,Bénéficiaire,Homme,27,Divorcé(e),Aucun,8,4,0.48,Non,8.6,Oui,3.2,3,Oui,Non,2.38,61.9,845.0,176300.0,8.1,0
+344,Est,Gnagna,Bénéficiaire,Homme,52,Marié(e) monogame,Aucun,7,1,3.75,Oui,0.8,Oui,6.6,1,Non,Oui,1.5,46.6,825.0,174400.0,5.2,0
+345,Nord,Yatenga,Bénéficiaire,Homme,36,Marié(e) monogame,Aucun,12,2,0.39,Non,2.3,Non,20.1,2,Oui,Oui,2.38,44.4,699.0,183400.0,8.4,0
+346,Est,Gnagna,Bénéficiaire,Homme,32,Marié(e) monogame,Aucun,6,2,2.65,Non,3.2,Oui,9.0,3,Non,Non,0.69,67.5,1061.0,114200.0,8.0,0
+347,Nord,Yatenga,Bénéficiaire,Homme,57,Marié(e) polygame,Aucun,5,4,1.11,Non,2.9,Oui,2.2,5,Oui,Non,1.38,45.4,1039.0,97300.0,10.6,0
+348,Nord,Yatenga,Bénéficiaire,Homme,41,Marié(e) monogame,Aucun,5,4,1.03,Non,4.0,Oui,1.0,2,Non,Oui,2.29,65.6,745.0,78600.0,10.4,0
+349,Est,Komondjari,Témoin,Homme,33,Célibataire,Secondaire,11,2,2.62,Oui,6.2,Oui,15.3,1,Non,Non,0.04,28.1,802.0,87000.0,6.8,1
+350,Nord,Zondoma,Témoin,Femme,49,Marié(e) monogame,Aucun,9,5,1.65,Non,7.3,Oui,13.7,0,Non,Non,0.04,48.6,656.0,93100.0,4.1,0
+351,Est,Gnagna,Bénéficiaire,Homme,68,Marié(e) monogame,Primaire,5,3,5.99,Oui,4.7,Oui,3.8,4,Non,Non,2.2,40.7,1281.0,166800.0,8.9,0
+352,Est,Komondjari,Témoin,Homme,23,Marié(e) monogame,Aucun,6,2,0.78,Oui,4.3,Oui,19.9,1,Non,Non,0.34,30.3,581.0,142800.0,3.5,1
+353,Est,Gnagna,Témoin,Homme,34,Veuf/Veuve,Aucun,7,2,1.85,Oui,3.9,Oui,1.0,0,Non,Non,0.13,46.5,413.0,107900.0,5.3,0
+354,Est,Komondjari,Bénéficiaire,Homme,34,Marié(e) monogame,Aucun,5,1,1.04,Non,5.4,Oui,30.3,6,Oui,Non,1.87,48.5,958.0,160700.0,6.4,0
+355,Nord,Yatenga,Témoin,Homme,65,Marié(e) monogame,Primaire,4,1,1.9,Non,5.4,Oui,7.7,1,Non,Non,0.01,40.1,661.0,85500.0,7.3,1
+356,Est,Gnagna,Témoin,Homme,23,Marié(e) monogame,Secondaire,5,5,3.84,Oui,2.2,Non,9.2,0,Non,Oui,0.05,34.5,718.0,19500.0,7.3,0
+357,Nord,Passoré,Bénéficiaire,Homme,22,Veuf/Veuve,Secondaire,5,1,4.95,Non,4.9,Non,11.1,3,Non,Oui,2.18,60.1,1021.0,211900.0,5.3,0
+358,Nord,Yatenga,Témoin,Homme,41,Divorcé(e),Primaire,11,3,2.32,Oui,1.6,Oui,13.9,0,Non,Non,0.12,25.1,493.0,152700.0,6.3,0
+359,Nord,Zondoma,Témoin,Homme,53,Marié(e) monogame,Aucun,14,4,1.64,Non,5.0,Oui,19.5,0,Non,Non,0.32,44.1,501.0,75900.0,7.0,0
+360,Nord,Yatenga,Témoin,Homme,36,Marié(e) monogame,Aucun,11,4,1.81,Non,14.2,Oui,24.8,0,Non,Non,0.28,42.0,572.0,103200.0,6.9,1
+361,Est,Gourma,Bénéficiaire,Homme,59,Marié(e) polygame,Aucun,7,1,3.54,Non,1.2,Oui,8.6,4,Oui,Non,0.64,48.5,1184.0,104000.0,6.2,0
+362,Est,Komondjari,Témoin,Homme,20,Divorcé(e),Aucun,11,3,1.75,Oui,10.5,Non,6.7,1,Oui,Non,0.25,27.8,668.0,122100.0,5.5,0
+363,Est,Gnagna,Témoin,Homme,49,Marié(e) monogame,Primaire,13,5,3.29,Non,8.6,Oui,9.3,1,Oui,Non,0.65,33.7,824.0,158500.0,7.2,0
+364,Est,Komondjari,Témoin,Homme,29,Marié(e) monogame,Aucun,11,5,0.49,Non,4.9,Non,45.1,2,Non,Non,0.14,31.7,897.0,64900.0,5.7,1
+365,Nord,Yatenga,Bénéficiaire,Femme,45,Marié(e) monogame,Supérieur,9,1,4.52,Non,2.3,Non,14.3,3,Oui,Non,2.5,44.4,950.0,178500.0,7.0,0
+366,Est,Gourma,Bénéficiaire,Femme,40,Marié(e) polygame,Primaire,6,4,2.55,Non,3.4,Oui,4.5,2,Oui,Oui,1.74,50.7,1167.0,114600.0,6.0,0
+367,Nord,Zondoma,Témoin,Homme,44,Marié(e) polygame,Aucun,11,3,0.76,Non,3.4,Oui,1.0,2,Non,Non,0.2,44.2,698.0,153600.0,5.1,0
+368,Nord,Passoré,Témoin,Femme,54,Célibataire,Primaire,4,1,0.75,Non,1.4,Non,50.7,0,Non,Non,0.21,8.0,501.0,116600.0,5.9,1
+369,Nord,Passoré,Bénéficiaire,Homme,39,Marié(e) monogame,Aucun,3,3,0.62,Oui,3.7,Non,29.1,6,Oui,Non,2.0,51.2,1118.0,127600.0,6.5,0
+370,Est,Gnagna,Témoin,Homme,24,Marié(e) polygame,Aucun,10,4,2.59,Non,6.3,Non,10.1,0,Non,Non,0.12,25.0,607.0,90800.0,5.6,1
+371,Est,Gnagna,Témoin,Homme,40,Marié(e) monogame,Aucun,6,2,0.53,Non,4.7,Oui,5.6,1,Non,Non,0.23,54.7,814.0,106200.0,5.4,0
+372,Nord,Zondoma,Bénéficiaire,Homme,54,Marié(e) monogame,Secondaire,5,5,4.28,Non,4.1,Oui,12.6,3,Oui,Oui,1.12,69.0,907.0,161100.0,7.8,0
+373,Est,Gnagna,Bénéficiaire,Femme,37,Marié(e) monogame,Primaire,8,4,3.83,Non,10.7,Oui,24.2,1,Oui,Non,0.95,51.4,1114.0,191800.0,11.3,0
+374,Est,Komondjari,Bénéficiaire,Femme,48,Veuf/Veuve,Primaire,11,1,4.19,Non,2.2,Oui,5.8,3,Oui,Oui,3.68,46.2,998.0,132700.0,4.5,0
+375,Nord,Yatenga,Bénéficiaire,Femme,40,Marié(e) polygame,Secondaire,5,1,1.64,Non,8.7,Non,18.6,1,Oui,Oui,0.93,62.8,1274.0,151800.0,7.4,0
+376,Est,Komondjari,Bénéficiaire,Homme,58,Marié(e) monogame,Primaire,14,1,2.11,Non,1.8,Oui,5.8,2,Oui,Non,1.91,62.0,1026.0,137400.0,10.3,0
+377,Est,Komondjari,Témoin,Homme,56,Veuf/Veuve,Aucun,8,4,0.65,Non,5.2,Oui,2.0,0,Non,Non,0.34,49.0,749.0,113100.0,6.3,1
+378,Est,Komondjari,Bénéficiaire,Homme,53,Marié(e) monogame,Aucun,6,5,3.1,Non,1.7,Non,46.0,2,Non,Non,2.82,69.1,1166.0,116800.0,8.0,0
+379,Est,Gourma,Témoin,Femme,34,Célibataire,Aucun,11,1,1.99,Oui,9.0,Non,33.3,0,Oui,Non,0.2,33.1,776.0,59400.0,4.7,1
+380,Est,Gourma,Bénéficiaire,Femme,56,Marié(e) monogame,Primaire,10,3,2.22,Non,2.9,Non,13.5,6,Oui,Oui,2.08,49.4,1223.0,94500.0,10.8,0
+381,Est,Komondjari,Bénéficiaire,Homme,38,Marié(e) monogame,Primaire,2,4,1.08,,2.7,Oui,7.5,1,Oui,Oui,2.5,61.6,780.0,171600.0,9.4,0
+382,Est,Gnagna,Bénéficiaire,Femme,50,Célibataire,Primaire,7,5,4.99,Non,9.1,Oui,3.8,4,Oui,Oui,0.69,74.0,1105.0,195900.0,6.0,0
+383,Nord,Passoré,Témoin,Homme,27,Célibataire,Aucun,5,3,1.18,Non,7.3,Non,8.6,1,Oui,Non,0.01,53.9,683.0,89700.0,5.1,0
+384,Est,Komondjari,Bénéficiaire,Homme,33,Marié(e) monogame,Primaire,7,3,1.56,Oui,,Non,9.7,3,Oui,Non,1.36,62.8,1095.0,175500.0,8.2,0
+385,Nord,Yatenga,Bénéficiaire,Homme,24,Marié(e) monogame,Aucun,9,3,2.61,Non,5.3,Oui,21.6,1,Oui,Oui,0.97,63.3,824.0,149000.0,11.8,0
+386,Est,Komondjari,Témoin,Homme,20,Marié(e) monogame,Primaire,9,1,2.82,Non,9.8,Non,20.0,0,Non,Non,0.22,26.2,814.0,144200.0,4.0,1
+387,Nord,Yatenga,Témoin,Homme,56,Marié(e) polygame,Secondaire,8,1,4.26,Non,0.7,Non,5.4,2,Non,Oui,0.37,38.8,791.0,78800.0,4.4,1
+388,Est,Komondjari,Bénéficiaire,Homme,31,Marié(e) monogame,Primaire,6,2,5.22,Non,4.6,Non,14.8,5,Non,Non,1.56,29.9,1041.0,102600.0,8.8,0
+389,Est,Gnagna,Témoin,Homme,35,Marié(e) polygame,Aucun,2,4,2.65,Oui,4.6,Oui,18.3,0,Non,Oui,0.41,46.1,548.0,82900.0,8.5,0
+390,Est,Gourma,Bénéficiaire,Homme,52,Marié(e) polygame,Aucun,5,1,1.59,Oui,2.4,Non,14.0,6,Non,Non,2.89,48.3,1139.0,121400.0,9.2,0
+391,Est,Gourma,Témoin,Homme,66,Marié(e) polygame,Aucun,8,4,2.05,Oui,2.9,Oui,9.2,2,Non,Non,0.08,37.1,759.0,182100.0,9.8,0
+392,Est,Komondjari,Bénéficiaire,Homme,44,Marié(e) polygame,Aucun,7,5,4.07,Non,16.3,Oui,1.0,0,Non,Oui,0.27,65.7,1070.0,160700.0,7.4,0
+393,Est,Gnagna,Témoin,Femme,32,Marié(e) monogame,Aucun,12,4,2.5,Non,1.4,Non,3.8,0,Non,Oui,0.11,31.5,681.0,114500.0,7.9,0
+394,Est,Gnagna,Témoin,Femme,39,Marié(e) monogame,Supérieur,2,2,1.97,Oui,7.2,Non,13.9,0,Non,Non,0.07,33.9,597.0,96500.0,6.1,0
+395,Est,Gourma,Bénéficiaire,Homme,38,Marié(e) polygame,Aucun,13,2,0.48,Non,6.7,Oui,20.7,5,Oui,Oui,0.54,42.7,1196.0,99900.0,8.6,0
+396,Nord,Passoré,Bénéficiaire,Homme,45,Marié(e) monogame,Aucun,9,1,1.78,Oui,1.7,Oui,43.6,3,Oui,Oui,0.61,46.8,922.0,142100.0,8.1,0
+397,Est,Gnagna,Bénéficiaire,Homme,38,Marié(e) polygame,Secondaire,8,4,2.49,Non,3.0,Oui,24.4,3,Non,Non,0.96,58.4,1240.0,188500.0,8.8,0
+398,Est,Komondjari,Bénéficiaire,Homme,31,Marié(e) monogame,Aucun,2,5,0.85,Oui,4.6,Oui,21.0,3,Non,Non,0.5,60.6,776.0,172200.0,11.8,0
+399,Nord,Yatenga,Témoin,Homme,27,Marié(e) monogame,Primaire,4,2,3.19,Non,6.9,Oui,24.4,0,Non,Non,0.21,41.9,586.0,125800.0,4.9,1
+400,Est,Komondjari,Témoin,Homme,51,Marié(e) polygame,Secondaire,10,3,0.75,Non,0.8,Oui,13.6,1,Non,Non,1.77,41.1,489.0,109200.0,6.1,0
+401,Est,Komondjari,Témoin,Homme,52,Marié(e) monogame,Aucun,5,3,1.63,Non,18.0,Non,21.8,1,Non,Non,0.11,55.4,528.0,102600.0,9.9,0
+402,Est,Komondjari,Bénéficiaire,Femme,45,Marié(e) monogame,Secondaire,8,5,0.55,Non,11.7,Non,10.5,1,Oui,Oui,2.25,57.8,811.0,136700.0,11.8,0
+403,Nord,Zondoma,Témoin,Homme,31,Marié(e) polygame,Aucun,4,5,1.61,Oui,3.9,Oui,15.5,0,Oui,Non,1.13,50.5,479.0,109000.0,3.9,1
+404,Nord,Passoré,Bénéficiaire,Homme,32,Marié(e) monogame,Primaire,6,2,4.42,Oui,2.5,Oui,25.3,2,Oui,Oui,2.3,64.4,1099.0,158700.0,5.9,0
+405,Nord,Passoré,Témoin,Homme,20,Marié(e) monogame,Primaire,5,1,4.78,Non,9.0,Non,1.5,0,Non,Non,0.01,42.1,762.0,52000.0,2.5,0
+406,Est,Gnagna,Bénéficiaire,Homme,35,Marié(e) monogame,Primaire,3,4,0.62,Non,6.3,Oui,9.3,5,Non,Oui,1.26,63.0,1140.0,194400.0,10.7,0
+407,Nord,Passoré,Témoin,Homme,41,Marié(e) monogame,Secondaire,9,3,6.23,Non,1.3,Oui,6.7,0,Non,Non,0.61,47.8,829.0,179300.0,6.5,0
+408,Nord,Yatenga,Témoin,Femme,41,Marié(e) monogame,,7,4,1.72,Oui,9.4,Oui,4.1,0,Non,Non,0.66,52.2,405.0,89800.0,6.5,0
+409,Est,Gnagna,Bénéficiaire,Femme,46,Veuf/Veuve,Secondaire,8,4,4.96,Non,12.9,Non,15.8,2,Oui,Non,0.89,44.4,1288.0,120900.0,8.1,0
+410,Est,Komondjari,Bénéficiaire,Homme,45,Divorcé(e),Primaire,2,1,0.97,Oui,3.4,Oui,8.8,3,Oui,Oui,0.37,51.5,900.0,108900.0,9.2,0
+411,Est,Gnagna,Témoin,Femme,49,Veuf/Veuve,Primaire,9,3,1.1,Non,8.3,Non,15.3,3,Non,Non,0.18,31.5,841.0,82600.0,6.0,0
+412,Est,Komondjari,Bénéficiaire,Homme,41,Marié(e) polygame,Aucun,7,5,1.76,Non,24.4,Oui,3.4,4,Oui,Non,2.37,63.8,1197.0,192000.0,8.8,0
+413,Nord,Zondoma,Bénéficiaire,Homme,31,Divorcé(e),Aucun,6,2,3.98,Non,5.7,Oui,15.5,3,Oui,Oui,0.79,62.1,1242.0,133600.0,5.7,0
+414,Est,Komondjari,Bénéficiaire,Homme,24,Marié(e) monogame,,11,2,1.84,Non,9.0,Non,28.7,1,Oui,Non,0.92,63.2,873.0,206600.0,8.6,0
+415,Est,Gourma,Témoin,Femme,27,Divorcé(e),Aucun,6,4,1.31,Non,,Oui,1.0,1,Non,Non,0.65,46.4,762.0,85000.0,5.2,0
+416,Nord,Zondoma,Bénéficiaire,Femme,43,Marié(e) polygame,Primaire,10,3,1.61,Non,2.6,Oui,8.6,3,Oui,Non,2.58,58.4,1245.0,103100.0,9.0,0
+417,Est,Gnagna,Bénéficiaire,Homme,78,Marié(e) polygame,Primaire,12,4,4.76,Non,8.2,Oui,8.4,4,Oui,Oui,0.84,66.9,1280.0,170300.0,8.8,0
+418,Nord,Zondoma,Bénéficiaire,Homme,26,Marié(e) monogame,Secondaire,11,2,3.14,Non,2.0,Non,60.0,2,Oui,Non,2.09,51.3,932.0,197900.0,7.8,0
+419,Est,Gourma,Bénéficiaire,Femme,24,Marié(e) monogame,,7,1,1.24,Oui,6.3,Oui,8.2,3,Oui,Non,3.25,69.4,1115.0,118800.0,5.7,0
+420,Est,Komondjari,Témoin,Homme,53,Marié(e) polygame,Aucun,7,4,0.76,Non,1.5,Oui,16.9,0,Non,Non,0.36,35.7,593.0,56900.0,7.4,0
